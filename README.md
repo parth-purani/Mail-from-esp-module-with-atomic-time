@@ -46,3 +46,4 @@ This script is particularly useful for IoT devices that need to send notificatio
 This script showcases a practical implementation of networking and SMTP functionalities on ESP platforms, emphasizing the integration of real-time data handling, network management, and communication.
 
 ---
+Enhance your IoT projects with this robust email sending capability, ensuring your systems stay connected and communicative.
